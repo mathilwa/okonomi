@@ -1,0 +1,9 @@
+node_modules/
+.idea/
+public/dist
+dist/
+.next
+.env
+.DS_store
+yarn-error.log*
+.eslintcache
