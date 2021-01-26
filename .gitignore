@@ -7,3 +7,4 @@ dist/
 .DS_store
 yarn-error.log*
 .eslintcache
+src/transactions.ts
